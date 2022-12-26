@@ -1,0 +1,7 @@
+.headerApp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.textHeader{color: white;}

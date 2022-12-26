@@ -1,0 +1,11 @@
+.headerView.ant-layout-header{
+    padding: 0 20px;
+}
+
+.theFooter.ant-layout-footer{
+    padding: 0px 0px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
